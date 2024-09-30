@@ -1,0 +1,70 @@
+body {
+    margin:  0;  /* Remove default margin */
+    padding: 0;  /* Remove default padding */
+    background: 
+        linear-gradient(rgba(243, 244, 243, 0.4), rgba(22, 203, 16, 0.4)), /* Semi-transparent overlay */
+        url('photo_2024-09-29_13-05-55.jpg') no-repeat center center fixed;    /* Background image */
+    background-size: cover; /* Cover the entire viewport with the image */
+    background-attachment: fixed;
+}
+
+h1 {
+    color: aquamarine;
+    font-family: 'Righteous';
+    text-align: center; 
+    margin: 20px 0; 
+}
+
+.box1, .box2 {
+    text-align: center;
+    margin: 20px auto; /* Center boxes with auto margins */
+    max-width: 600px;  /* Optional: limit width for better appearance */
+}
+
+.a {
+    display: block; /* Use block display for proper centering */
+    background-color: gray; /* Background color for .a */
+    color: rgb(15, 95, 31); /* Text color for .a */
+    font-size: 50px; /* Font size */
+    font-family: 'Righteous';
+    padding: 10px; /* Add padding */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.b {
+    color: #ffffff; /* Text color for .b */
+    font-size: 50px; /* Font size */
+    display: inline-block; /* Maintain inline-block */
+    padding: 5px;
+    border-radius: 20px; /* Rounded corners */
+    font-family: 'Righteous';
+    border-left-style: double; /* Double border on the left */
+    border-left-color: lightgreen; /* Border color */
+    border: solid rgb(248, 248, 248);
+    margin: 20px auto; /* Centering margin for .b */
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    background-color: aquamarine; 
+    color: #282c34;
+    cursor: pointer; 
+}
+
+button:hover {
+    background-color: lightgreen; 
+}
+button:active{
+    background-color: #ffffff;
+}
+ iframe{
+    border-radius: 20%;
+    position: absolute;
+   left: 58%;
+   
+} 
+
+
