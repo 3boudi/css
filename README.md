@@ -4,7 +4,7 @@
 │   README.md
 │   Rapport_Vote_Electronique_Bilingue.doc
 │   database_image.png
-│   Gemini_Generated_Image_ribocpribocpribo.png
+│
 │   RSA Voting Process Framework-2026-04-28-105132.png
 │   
 └───source code/
