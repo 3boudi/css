@@ -1,6 +1,6 @@
 ```
 
-# projet/
+projet/
 │   README.md
 │   Rapport_Vote_Electronique_Bilingue.doc
 │   database_image.png
