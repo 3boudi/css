@@ -1,4 +1,6 @@
-projet/
+```
+
+# projet/
 │   README.md
 │   Rapport_Vote_Electronique_Bilingue.doc
 │   database_image.png
@@ -30,3 +32,4 @@ projet/
             generate_report.py
             voter_client.py
             voting_server.py
+```
